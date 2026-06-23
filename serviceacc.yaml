@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2026-06-23T04:07:39Z"
+  name: build-sa
+  namespace: default
+  resourceVersion: "132046"
+  uid: ed58c96e-090d-4cb8-a413-dc5438184e77
